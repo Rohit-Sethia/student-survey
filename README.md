@@ -3,6 +3,14 @@
 <html>
 <head>
 <title>Student Interest Survey</title>
+  <style>
+    body{
+        background-color: brown;
+    }
+    h1 {
+        color: royalblue;
+    }
+</style>
 </head>
 <body>
 <div align="center">
